@@ -6,7 +6,7 @@ Ce dépôt rassemble les travaux pratiques et les algorithmes développés duran
 * max.c : Algorithme de comparaison qui détermine et affiche le maximum entre deux variables.
 * famille.c : Programme de gestion d'archive familiale utilisant une structure switch.
 * puissance.c, perSur.c, chiffreaffaire.c : Exercices d'application sur les types de variables et les structures conditionnelles.
-
+* etc.
 ## 🛠️ Technologies & Outils
 * *Langage :* C (Compilateur GCC)
 * *Éditeur :* Visual Studio Code
